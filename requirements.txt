@@ -2,5 +2,4 @@ Flask
 flask-cors
 requests
 numpy
-scikit-learn
-tensorflow
+tensorflow-cpu==2.12.0
