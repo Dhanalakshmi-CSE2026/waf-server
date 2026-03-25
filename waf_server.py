@@ -9,10 +9,10 @@ app = Flask(__name__)
 ai = AIModel()
 
 # SERVER MACHINE IP
-SERVER = "http://192.168.0.225:5001"
+SERVER = "https://server2side.onrender.com"
 
 # CLIENT MACHINE (Live Server running here)
-CLIENT = "http://192.168.0.135:5500"
+CLIENT = "loginclientpage.netlify.app"
 
 ADMIN_USER = "dhana"
 ADMIN_PASS = "1234"
