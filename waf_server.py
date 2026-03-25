@@ -12,7 +12,7 @@ ai = AIModel()
 SERVER = "https://server2side.onrender.com"
 
 # CLIENT MACHINE (Live Server running here)
-CLIENT = "loginclientpage.netlify.app"
+CLIENT = "https://example.com"
 
 ADMIN_USER = "dhana"
 ADMIN_PASS = "1234"
